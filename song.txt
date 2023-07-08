@@ -2,3 +2,6 @@ sword
 wall
 standing
 o
+
+31
+414
